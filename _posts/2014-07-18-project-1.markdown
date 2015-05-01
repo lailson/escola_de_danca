@@ -4,10 +4,12 @@ subtitle: Aquecimento do ballet adulto
 layout: default
 modal-id: 1
 date: 2015-03-01
-img: Ballet_adulto.jpg
-thumbnail: Ballet_adulto.jpg
+img: ballet criativo4.jpg
+thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: Março 2015
-description: Nossas alunas no Ballet adulto
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
