@@ -16,36 +16,20 @@ color:
 people:
 - name: Luciana Libânio
   pic: 1
-  position: Professor de dança do ventre
+  position: Professor de dança do ventre e Professora de Ballet
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/luciana.estrella.3?ref=br_rs
 
-- name: Em Breve
+- name: Isis Teles
   pic: 2
-  position: Professor
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: Professora de Ballet
 
-- name: Em breve
+
+- name: Aldair Sousa
   pic: 3
-  position: Professora
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Professor de dança de salão
+  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
